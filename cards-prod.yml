@@ -2,10 +2,11 @@ build:
   version: 3.0.0
 
 cards:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
     name: "Sandeep Kuamr- Manager"
     email: "SandeepKumar@gmail.com"
   onCallSupport:
     - (555) 9990-1234
+
     - (555) 9990-1345
