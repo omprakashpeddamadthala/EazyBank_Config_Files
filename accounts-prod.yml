@@ -2,7 +2,7 @@ build:
   version: 3.0.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs "
+  message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "Sandeep Kuamr- Product Manager"
     email: "SandeepVemisheeti@gmail.com"
@@ -10,5 +10,6 @@ accounts:
     - (555) 9990-1234
 
     - (555) 9990-1345
+
 
 
