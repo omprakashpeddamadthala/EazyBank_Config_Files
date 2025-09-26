@@ -1,3 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ep-winter-star-ad8q0gjh-pooler.c-2.us-east-1.aws.neon.tech/accountsdb?sslmode=require&channel_binding=require
+    username: neondb_owner
+    password: npg_IyHQEVcL2W4r
+
 build:
   version: 1.0.0
 
