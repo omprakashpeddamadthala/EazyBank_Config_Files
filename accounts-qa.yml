@@ -4,8 +4,9 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Ravi Kumar- TEAM LEAD"
+    name: "Ravi Kumar- QA"
     email: "Ravikumar@gmail.com"
   onCallSupport:
     - (555) 666-1234
+
     - (555) 777-1345
